@@ -1,0 +1,23 @@
+div {
+    height: 50px;
+    border: 1px solid red;
+  }
+
+.navBar {
+    float: inherit;
+    overflow: hidden;
+    background-color: blanchedalmond;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+}
+
+.navBar main {
+    display: block;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
